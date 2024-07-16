@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-** Ph.D in Mathematics, Université Paris Cité, 2027 (expected) **
-** Ph.D in Meta Development and Data Analysis, Utrecht University, 2027 (expected) **
+** Ph.D in Mathematics, Université Paris Cité, 2027 (expected) ** <br>
+** Ph.D in Meta Development and Data Analysis, Utrecht University, 2027 (expected) ** <br>
 ** M.S. in Mathematics, Uppsala University, 2024 ** <br>
-_Master Thesis: Generalised Multivariate Partially Linear Measurement Error Models with Mixed-Type Responses and An Exploratory Extension to Imbalanced Measurements_
+_Master Thesis: Generalised Multivariate Partially Linear Measurement Error Models with Mixed-Type Responses and An Exploratory Extension to Imbalanced Measurements_ <br>
 ** B.S. in Statistics, Central South University, 2022 ** <br>
-_Bachelor Thesis: Compound Regularized Extreme Learning Machine in High-frequency Financial Data_
+_Bachelor Thesis: Compound Regularized Extreme Learning Machine in High-frequency Financial Data_ <br>
 
 Work experience
 ======
