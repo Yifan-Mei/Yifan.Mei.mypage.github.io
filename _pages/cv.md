@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematics, Université Paris Cité, 2027 (expected)
+* Ph.D in Meta Development and Data Analysis, Utrecht University, 2027 (expected)
 * M.S. in Mathematics, Uppsala University, 2024
 * B.S. in Statistics, Central South University, 2022
 
