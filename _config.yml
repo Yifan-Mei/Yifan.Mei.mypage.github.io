@@ -23,10 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yifan Mei"
-  pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
   location         : "Uppsala, Sweden"
-  employer         : "Red Brick University"
+  employer         : "Uppsala University"
   uri              : # URL
   email            : "yifmei@outlook.com" 
 
